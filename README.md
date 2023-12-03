@@ -5,7 +5,7 @@ This is a simple Port Scanner using BASH Script.It can scan a specified IP addre
 Clone the project  
 
 ~~~bash  
-  https://github.com/rinshad-p/Port-Scanner
+  git clone https://github.com/rinshad-p/Port-Scanner
 ~~~
 
 Go to the project directory  
